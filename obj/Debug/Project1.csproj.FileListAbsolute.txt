@@ -1,0 +1,7 @@
+D:\College\2nd sem\Dotnet\MidTerm\Project1\bin\Debug\Project1.exe.config
+D:\College\2nd sem\Dotnet\MidTerm\Project1\bin\Debug\Project1.exe
+D:\College\2nd sem\Dotnet\MidTerm\Project1\bin\Debug\Project1.pdb
+D:\College\2nd sem\Dotnet\MidTerm\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+D:\College\2nd sem\Dotnet\MidTerm\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\College\2nd sem\Dotnet\MidTerm\Project1\obj\Debug\Project1.exe
+D:\College\2nd sem\Dotnet\MidTerm\Project1\obj\Debug\Project1.pdb
