@@ -1,7 +1,0 @@
-D:\College\2nd sem\Dotnet\MidTerm\Project1\obj\Debug\TheatreBookingSystem.csproj.AssemblyReference.cache
-D:\College\2nd sem\Dotnet\MidTerm\Project1\obj\Debug\TheatreBookingSystem.csproj.CoreCompileInputs.cache
-D:\College\2nd sem\Dotnet\MidTerm\Project1\bin\Debug\TheatreBookingSystem.exe.config
-D:\College\2nd sem\Dotnet\MidTerm\Project1\bin\Debug\TheatreBookingSystem.exe
-D:\College\2nd sem\Dotnet\MidTerm\Project1\bin\Debug\TheatreBookingSystem.pdb
-D:\College\2nd sem\Dotnet\MidTerm\Project1\obj\Debug\TheatreBookingSystem.exe
-D:\College\2nd sem\Dotnet\MidTerm\Project1\obj\Debug\TheatreBookingSystem.pdb
